@@ -1,0 +1,10 @@
+.frame-content .bubbleWithLabel button.widgetLabel {
+  display: none;
+  transition: ease all 0.5s;
+}
+.frame-content .bubbleWithLabel:hover button.widgetLabel {
+  display: block;
+}
+.awesome-iframe .widget-position-right #button {
+  height: 80px;
+}
